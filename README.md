@@ -1,4 +1,4 @@
-# Wireless File Transfer via ADB
+# Wireless ADB File Transfer
 
 This repository contains two scripts (_Receive.bat and _Send.bat) for transferring files wirelessly between your PC and an Android device using Wireless ADB.
 
